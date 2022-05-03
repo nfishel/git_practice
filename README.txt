@@ -1,1 +1,3 @@
-Hello Git on GitHub
+Hello Git on GitHub!
+
+Welcom to my Repo _/( )\_
